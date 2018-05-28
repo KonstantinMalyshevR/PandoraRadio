@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Pandora Radio</string>
+    <string name="imageViewDescription">Изображение</string>
+    <string name="empty_list">Список пуст</string>
+</resources>
