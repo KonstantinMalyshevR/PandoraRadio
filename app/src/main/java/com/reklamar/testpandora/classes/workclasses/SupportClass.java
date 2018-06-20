@@ -24,11 +24,11 @@ import javax.crypto.spec.SecretKeySpec;
 public class SupportClass {
 
     public final static String BASE_URL = "https://tuner.pandora.com:443/";
-    public final static String ENCRYPT_KEY = "6#26FRL$ZWD";
-    public final static String DECRYPT_KEY = "R=U!LH$O2B#";
+    public final static String ENCRYPT_KEY = "ENCRYPT_KEY";
+    public final static String DECRYPT_KEY = "DECRYPT_KEY";
 
     public final static String PARTNER_USERNAME = "android";
-    public final static String PARTNER_PASSWORD = "AC7IBG09A3DTSYM4R41UJWL07VLN8JI7";
+    public final static String PARTNER_PASSWORD = "KEY_PASSWORD";
     public final static String PARTNER_DEVICE_MODEL = "android-generic";
     public final static String PARTNER_VERSION_NUMBER = "5";
 
